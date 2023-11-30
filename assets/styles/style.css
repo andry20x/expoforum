@@ -2,14 +2,14 @@
   font-family: 'Circe';
   font-weight: 400;
   font-style: normal;
-  src: url(/assets/circe_light.ttf);
+  src: url(./assets/circe_light.ttf);
 }
 
 @font-face{
   font-family: 'Plumb';
   font-weight: 700;
   font-style: normal;
-  src: url(expoforum/assets/Plumb.ttf);
+  src: url(./assets/Plumb.ttf);
 }
 
 body {
@@ -17,7 +17,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background-image: url(/assets/img/bgc.png);
+  background-image: url(./assets/img/bgc.png);
   background-repeat: no-repeat;
 }
 
@@ -31,7 +31,7 @@ body {
 .logo {
   margin-left: 10%;
   margin-top: 2%;
-  background-image: url(/assets/img/logo.png);
+  background-image: url(./assets/img/logo.png);
   height: 50px;
   background-repeat: no-repeat;
 }
